@@ -1,4 +1,4 @@
-//modify a tag by adding by appending element 
+//modify a tag by appending element 
 
 var modifyElement =  function(parentDiv){
   var doc = document.createElement('div');
